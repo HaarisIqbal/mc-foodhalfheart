@@ -1,0 +1,5 @@
+name: FoodHalfHeart
+version: 1.0
+author: Volcifire
+main: me.volcifire.foodhalfheart.Main
+description: Eating any food takes player health down to half a heart. Does not apply to milk & potions.
